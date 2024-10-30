@@ -1,0 +1,39 @@
+/*!
+ * Plugin:      Content Locker
+ * URL:         https://mythemeshop.com/plugins/content-locker/
+ * Name:        cl-stats.css
+ * Author:      MyThemeShop
+ */
+
+body {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 155%;
+
+    margin: 0;
+    padding: 35px;
+
+    background-color: #fcfcfc;
+}
+p {
+    margin: 0;
+}
+p + p {
+    margin-top: 15px;
+}
+strong {
+    color: #333;
+}
+h2 {
+    font-size: 24px;
+
+    margin: 0 0 20px 0;
+}
+h4 {
+    font-size: 18px;
+    line-height: 155%;
+
+    margin: 25px 0 15px 0;
+
+    text-transform: capitalize;
+}

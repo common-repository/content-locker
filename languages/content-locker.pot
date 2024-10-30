@@ -1,0 +1,2395 @@
+# Copyright (C) 2017 MyThemesShop
+# This file is distributed under the same license as the Content Locker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Locker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://community.mythemeshop.com/\n"
+"POT-Creation-Date: 2017-01-23 21:54:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: MyThemeShop <support-team@mythemeshop.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: admin/class-cl-admin-page.php:74
+msgid "$id variable required"
+msgstr ""
+
+#: admin/class-cl-admin-page.php:74 admin/class-cl-admin-page.php:78
+msgid "Variable Required"
+msgstr ""
+
+#: admin/class-cl-admin-page.php:78
+msgid "$title variable required"
+msgstr ""
+
+#: admin/class-cl-admin.php:94 includes/class-cl-post-types.php:45
+msgid "+ New Locker"
+msgstr ""
+
+#: admin/class-cl-admin.php:102 admin/views/page-settings.php:3
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cl-admin.php:110
+msgid "How to use?"
+msgstr ""
+
+#: admin/class-cl-admin.php:237 admin/class-cl-admin.php:238
+msgid "+ Social Locker"
+msgstr ""
+
+#: admin/class-cl-admin.php:246 admin/class-cl-admin.php:247
+msgid "+ Sign-In Locker"
+msgstr ""
+
+#: admin/class-cl-admin.php:255
+msgid "Leads (%d)"
+msgstr ""
+
+#: admin/class-cl-admin.php:321 includes/class-cl-post-types.php:42
+#: includes/class-cl-post-types.php:61
+msgid "Locker"
+msgstr ""
+
+#: admin/class-cl-admin.php:321
+msgid "General"
+msgstr ""
+
+#: admin/class-cl-admin.php:321
+msgid "Visibility"
+msgstr ""
+
+#: admin/class-cl-admin.php:321
+msgid "Advance"
+msgstr ""
+
+#: admin/class-cl-admin.php:340 admin/metaboxes/manual-locking.php:25
+msgid ""
+"Wrap content you want to lock via the following shortcode in your post "
+"editor: "
+msgstr ""
+
+#: admin/class-cl-admin.php:378 includes/cl-helpers.php:552
+#: includes/cl-helpers.php:558
+msgid "Database"
+msgstr ""
+
+#: admin/class-cl-admin.php:379
+msgid "Emails of subscribers will be saved in the WP database."
+msgstr ""
+
+#: admin/class-cl-admin.php:386
+msgid "MailChimp"
+msgstr ""
+
+#: admin/class-cl-admin.php:387 admin/class-cl-admin.php:403
+msgid "Adds subscribers to your MailChimp account."
+msgstr ""
+
+#: admin/class-cl-admin.php:394
+msgid "MailerLite"
+msgstr ""
+
+#: admin/class-cl-admin.php:395
+msgid "Adds subscribers to your MailerLite account."
+msgstr ""
+
+#: admin/class-cl-admin.php:402
+msgid "Aweber (Pro)"
+msgstr ""
+
+#: admin/class-cl-admin.php:446 admin/class-cl-connect.php:40
+#: admin/class-cl-stats.php:31
+msgid "Not permitted."
+msgstr ""
+
+#: admin/class-cl-admin.php:455
+msgid "Service not defined."
+msgstr ""
+
+#: admin/class-cl-admin.php:472
+msgid "No lists found."
+msgstr ""
+
+#: admin/class-cl-connect.php:51
+msgid "No item mention for action."
+msgstr ""
+
+#: admin/class-cl-connect.php:76
+msgid "Unable to subscribe. The email is not specified."
+msgstr ""
+
+#: admin/class-cl-connect.php:84
+msgid "Unable to subscribe. The list ID is not specified."
+msgstr ""
+
+#: admin/class-cl-connect.php:94
+msgid "Lead saved."
+msgstr ""
+
+#: admin/class-cl-connect.php:107
+msgid "The subscription service is not set."
+msgstr ""
+
+#: admin/class-cl-connect.php:131
+msgid "Email subscribed."
+msgstr ""
+
+#: admin/class-cl-connect.php:138
+msgid "Waiting subscription confirmation."
+msgstr ""
+
+#: admin/class-cl-connect.php:145
+msgid "Error."
+msgstr ""
+
+#: admin/class-cl-connect.php:162 admin/class-cl-connect.php:207
+msgid "Already registered."
+msgstr ""
+
+#: admin/class-cl-connect.php:171
+msgid "No Email to register."
+msgstr ""
+
+#: admin/class-cl-connect.php:201
+msgid "Register successfull."
+msgstr ""
+
+#: admin/class-cl-export-leads.php:32 admin/views/page-export.php:13
+msgid "Export Leads"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:57
+msgid "Format"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:60
+msgid "Only the CSV format is available currently."
+msgstr ""
+
+#: admin/class-cl-export-leads.php:62
+msgid "CSV File"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:69
+msgid "Delimiter"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:72
+msgid "Choose a delimiter for a CSV document."
+msgstr ""
+
+#: admin/class-cl-export-leads.php:74
+msgid "Comma"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:75
+msgid "Semicolon"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:81
+msgid "Channels"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:84
+msgid "Mark lockers which attracted leads you wish to export."
+msgstr ""
+
+#: admin/class-cl-export-leads.php:90 admin/class-cl-export-leads.php:112
+msgid "Email Status"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:93
+msgid "Choose the email status of leads to export."
+msgstr ""
+
+#: admin/class-cl-export-leads.php:95
+msgid "All"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:96
+msgid "Only Confirmed Emails"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:97
+msgid "Only Not Confirmed"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:103
+msgid "Fields To Export"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:107 admin/metaboxes/signin-options.php:560
+msgid "Email"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:108
+msgid "Display Name"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:109
+msgid "Firstname"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:110
+msgid "Lastname"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:111
+msgid "Date Added"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:113
+msgid "IP"
+msgstr ""
+
+#: admin/class-cl-export-leads.php:197
+msgid "Please make sure that you selected at least one channel and field."
+msgstr ""
+
+#: admin/class-cl-export-leads.php:248
+msgid "No leads found. Please try to change the settings of exporting."
+msgstr ""
+
+#: admin/class-cl-leads.php:190
+msgid "Name"
+msgstr ""
+
+#: admin/class-cl-leads.php:191
+msgid "Channel"
+msgstr ""
+
+#: admin/class-cl-leads.php:192
+msgid "Added"
+msgstr ""
+
+#: admin/class-cl-leads.php:193
+msgid "Status"
+msgstr ""
+
+#: admin/class-cl-leads.php:223
+msgid "User Avatar"
+msgstr ""
+
+#: admin/class-cl-leads.php:272
+msgid "(unknown)"
+msgstr ""
+
+#: admin/class-cl-leads.php:275
+msgid "Via: %s"
+msgstr ""
+
+#: admin/class-cl-leads.php:287
+msgid "(no title)"
+msgstr ""
+
+#: admin/class-cl-leads.php:290
+msgid "On Page: %s"
+msgstr ""
+
+#: admin/class-cl-leads.php:303
+msgid "This email is real. It was received from social networks."
+msgstr ""
+
+#: admin/class-cl-leads.php:304 admin/class-cl-leads.php:311
+msgid "email confirmed"
+msgstr ""
+
+#: admin/class-cl-leads.php:310
+msgid ""
+"This email was not confirmed. It means that actually this email address may "
+"be owned by another user."
+msgstr ""
+
+#: admin/class-cl-leads.php:319
+msgid "This user confirmed his subscription."
+msgstr ""
+
+#: admin/class-cl-leads.php:320 admin/class-cl-leads.php:328
+msgid "subscription confirmed"
+msgstr ""
+
+#: admin/class-cl-leads.php:327
+msgid "This user has not confirmed his subscription."
+msgstr ""
+
+#: admin/class-cl-stats.php:49
+msgid "Locker ID is not specified."
+msgstr ""
+
+#: admin/class-cl-stats.php:57
+msgid "Counted."
+msgstr ""
+
+#: admin/class-cl-twitter.php:24
+msgid "Invalid request type."
+msgstr ""
+
+#: admin/class-cl-twitter.php:76 admin/class-cl-twitter.php:292
+msgid "Invalid visitor ID."
+msgstr ""
+
+#: admin/class-cl-twitter.php:99
+msgid "The verifier value is invalid."
+msgstr ""
+
+#: admin/class-cl-twitter.php:108
+msgid "The secret of the request token is invalid for "
+msgstr ""
+
+#: admin/class-cl-twitter.php:180
+msgid "The tweet message is not specified"
+msgstr ""
+
+#: admin/class-cl-twitter.php:195
+msgid "The tweet already is twitted."
+msgstr ""
+
+#: admin/class-cl-twitter.php:228
+msgid "The user name to follow is not specified"
+msgstr ""
+
+#: admin/class-cl-twitter.php:301
+msgid "The access token not found for "
+msgstr ""
+
+#: admin/class-cl-twitter.php:311
+msgid "The secret of the access token is invalid for "
+msgstr ""
+
+#: admin/extras/visual-composer/vc-init.php:19 admin/views/page-new.php:7
+msgid "Social Locker"
+msgstr ""
+
+#: admin/extras/visual-composer/vc-init.php:21
+msgid "Adds one of existing Social Lockers."
+msgstr ""
+
+#: admin/extras/visual-composer/vc-init.php:22
+#: admin/extras/visual-composer/vc-init.php:44
+msgid "MyThemeShop"
+msgstr ""
+
+#: admin/extras/visual-composer/vc-init.php:32
+#: admin/extras/visual-composer/vc-init.php:54
+msgid "Select locker to insert"
+msgstr ""
+
+#: admin/extras/visual-composer/vc-init.php:41 admin/views/page-new.php:23
+msgid "Sign-In Locker"
+msgstr ""
+
+#: admin/extras/visual-composer/vc-init.php:43
+msgid "Adds one of existing Sign-In Lockers."
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:16
+msgid "Advance Options"
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:26
+msgid "Close Icon"
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:27
+msgid "Shows Close Icon in the corner."
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:32
+#: admin/metaboxes/advance-options.php:82 admin/metaboxes/signin-options.php:97
+#: admin/metaboxes/signin-options.php:196
+#: admin/metaboxes/signin-options.php:285
+#: admin/metaboxes/signin-options.php:361
+#: admin/metaboxes/signin-options.php:488
+#: admin/metaboxes/signin-options.php:574 admin/metaboxes/social-options.php:35
+#: admin/metaboxes/social-options.php:98 admin/metaboxes/social-options.php:153
+#: admin/metaboxes/social-options.php:234
+#: admin/metaboxes/visibility-options.php:32
+#: admin/metaboxes/visibility-options.php:48
+#: admin/metaboxes/visibility-options.php:69
+#: admin/metaboxes/visibility-options.php:119
+#: admin/metaboxes/visibility-options.php:173
+#: admin/settings/social-options.php:130 admin/settings/stats-options.php:26
+#: admin/settings/stats-options.php:43 admin/settings/terms-options.php:27
+#: admin/settings/terms-options.php:39
+msgid "On"
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:33
+#: admin/metaboxes/advance-options.php:83 admin/metaboxes/signin-options.php:98
+#: admin/metaboxes/signin-options.php:197
+#: admin/metaboxes/signin-options.php:286
+#: admin/metaboxes/signin-options.php:362
+#: admin/metaboxes/signin-options.php:489
+#: admin/metaboxes/signin-options.php:575 admin/metaboxes/social-options.php:36
+#: admin/metaboxes/social-options.php:99 admin/metaboxes/social-options.php:154
+#: admin/metaboxes/social-options.php:235
+#: admin/metaboxes/visibility-options.php:33
+#: admin/metaboxes/visibility-options.php:49
+#: admin/metaboxes/visibility-options.php:70
+#: admin/metaboxes/visibility-options.php:120
+#: admin/metaboxes/visibility-options.php:174
+#: admin/settings/social-options.php:131 admin/settings/stats-options.php:27
+#: admin/settings/stats-options.php:44 admin/settings/terms-options.php:28
+#: admin/settings/terms-options.php:40
+msgid "Off"
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:41
+#: admin/metaboxes/visibility-options.php:58
+msgid ""
+"This Premium feature is available in the <a target=\"_blank\" "
+"href=\"%s\">pro version</a>."
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:46
+msgid "Timer Interval"
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:47
+msgid "Unlock the locker after specified time interval."
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:76
+msgid "Highlight on Unlock"
+msgstr ""
+
+#: admin/metaboxes/advance-options.php:77
+msgid "Enable this option to hightlight the content upon unlock."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:18
+msgid "This content is locked!"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:19
+msgid "Please support us, use one of the buttons below to unlock the content."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:24
+msgid "Sign In To Unlock This Content"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:25
+msgid ""
+"Please sign in. It's free. Just click one of the buttons below to get "
+"instant access."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:32
+msgid "Basic Options"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:40
+msgid "Locker Box Title"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:43
+msgid ""
+"Add locker box title which attracts attention. You can leave this field "
+"empty."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:48
+msgid "Locker Message"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:51
+msgid "Add message which will appear under the title."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:59
+msgid "Theme"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:62
+msgid "Choose a theme for Locker Box."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:62
+msgid ""
+"Extra themes are available in the <a target=\"_blank\" href=\"%s\">pro "
+"version</a>."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:72
+msgid "Button Layout"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:75
+msgid "Choose button layout from here."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:75
+msgid ""
+"Vertical layout is available in the <a target=\"_blank\" href=\"%s\">pro "
+"version</a>."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:77
+msgid "Horizontal"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:78
+msgid "Vertical"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:91
+msgid "Overlap Mode"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:94
+msgid "Choose the way how your locker should lock the content."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:94
+msgid ""
+"Extra overlap modes are available in the <a target=\"_blank\" "
+"href=\"%s\">pro version</a>."
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:96
+msgid "Full (classic)"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:97
+msgid "Transparency"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:98
+msgid "Blurring"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:111
+msgid "Middle"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:112
+msgid "Top"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:113
+msgid "Scrolling"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:125
+msgid "Shortcode"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:162 admin/metaboxes/basic-options.php:171
+msgid "Flat"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:163
+msgid "Great Attractor"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:164
+msgid "Friendly Giant"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:165
+msgid "Dark Force"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:172
+msgid "Glass"
+msgstr ""
+
+#: admin/metaboxes/basic-options.php:173
+msgid "Starter"
+msgstr ""
+
+#: admin/metaboxes/manual-locking.php:16
+msgid "Manual Locking (recommended)"
+msgstr ""
+
+#: admin/metaboxes/manual-locking.php:42
+msgid ""
+"Wrap content you want to lock via the following shortcode in your post "
+"editor:"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:16
+msgid "Connect Options"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:70 admin/settings/front-options.php:46
+msgid "Facebook"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:92
+msgid "Activate the Facebook button."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:106
+#: admin/metaboxes/signin-options.php:205
+#: admin/metaboxes/signin-options.php:370
+#: admin/metaboxes/signin-options.php:497
+#: admin/metaboxes/signin-options.php:583
+msgid "Save Email"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:109
+#: admin/metaboxes/signin-options.php:208
+#: admin/metaboxes/signin-options.php:373
+#: admin/metaboxes/signin-options.php:500
+#: admin/metaboxes/signin-options.php:586
+msgid ""
+"This action retrieves an email and some other personal data of the user and "
+"saves it in the database."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:111
+#: admin/metaboxes/signin-options.php:139
+#: admin/metaboxes/signin-options.php:210
+#: admin/metaboxes/signin-options.php:238
+#: admin/metaboxes/signin-options.php:266
+#: admin/metaboxes/signin-options.php:298
+#: admin/metaboxes/signin-options.php:375
+#: admin/metaboxes/signin-options.php:403
+#: admin/metaboxes/signin-options.php:430
+#: admin/metaboxes/signin-options.php:502
+#: admin/metaboxes/signin-options.php:530
+#: admin/metaboxes/signin-options.php:588
+#: admin/metaboxes/signin-options.php:616
+msgid "Enable"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:112
+#: admin/metaboxes/signin-options.php:140
+#: admin/metaboxes/signin-options.php:211
+#: admin/metaboxes/signin-options.php:239
+#: admin/metaboxes/signin-options.php:267
+#: admin/metaboxes/signin-options.php:299
+#: admin/metaboxes/signin-options.php:376
+#: admin/metaboxes/signin-options.php:404
+#: admin/metaboxes/signin-options.php:431
+#: admin/metaboxes/signin-options.php:503
+#: admin/metaboxes/signin-options.php:531
+#: admin/metaboxes/signin-options.php:589
+#: admin/metaboxes/signin-options.php:617
+msgid "Disable"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:118
+#: admin/metaboxes/signin-options.php:217
+#: admin/metaboxes/signin-options.php:382
+#: admin/metaboxes/signin-options.php:509
+#: admin/metaboxes/signin-options.php:595
+#: admin/settings/subscription-options.php:20
+msgid "Default List"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:122
+#: admin/metaboxes/signin-options.php:221
+#: admin/metaboxes/signin-options.php:386
+#: admin/metaboxes/signin-options.php:513
+#: admin/metaboxes/signin-options.php:599
+msgid ""
+"Select a default list where you want to save the subscriber details. You "
+"can integrate your email service <a href=\"%s\">from here</a>."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:134
+#: admin/metaboxes/signin-options.php:233
+#: admin/metaboxes/signin-options.php:398
+#: admin/metaboxes/signin-options.php:525
+#: admin/metaboxes/signin-options.php:611
+msgid "Create Account"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:137
+#: admin/metaboxes/signin-options.php:236
+#: admin/metaboxes/signin-options.php:401
+#: admin/metaboxes/signin-options.php:528
+#: admin/metaboxes/signin-options.php:614
+msgid ""
+"This action registers the user on your website (password will be generated "
+"automatically)."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:169 admin/settings/front-options.php:54
+msgid "Twitter"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:191
+msgid "Activate the Twiiter button."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:253
+msgid "Show more options (5)"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:261
+#: admin/metaboxes/social-options.php:304
+msgid "Follow"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:264
+msgid ""
+"If enabled, user will follow you on Twitter after clicking the Sign In "
+"button."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:273
+msgid "User to follow"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:276
+msgid "Set a Twitter user name to follow ( without @, for example, mythemeshopteam)"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:280
+msgid "Notifications"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:283
+msgid "If On, follower will get notifications about new tweets (usually via sms)."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:293
+#: admin/metaboxes/signin-options.php:305
+#: admin/metaboxes/social-options.php:137
+#: admin/metaboxes/social-options.php:167
+msgid "Tweet"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:296
+msgid "Sends below specified tweet on behalf of the user after signing in."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:308
+msgid "Type a tweet. It may include any URL."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:334 admin/settings/front-options.php:62
+msgid "Google"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:356
+msgid "Activate the Google+ button."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:420
+msgid "Youtube Channel"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:421
+msgid "This action subscribers the user to the specified Youtube channel."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:426
+msgid "Activate"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:438
+msgid "Youtube Channel ID"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:441
+msgid ""
+"Set a channel ID to subscribe, to get your channel ID <a href=\"%s\" "
+"target=\"_blank\">click here</a>.(example: UC2t2B_nKC5jg1Ix5rU0Bz7A)"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:461
+msgid "Linkedin"
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:483
+msgid "Activate the Linkedin button."
+msgstr ""
+
+#: admin/metaboxes/signin-options.php:569
+msgid "Activate the Email button."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:14 admin/settings/social-options.php:7
+msgid "Social Options"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:30
+msgid "Hint:"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:30
+msgid "Drag and drop the tabs to change the order of the buttons."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:33
+msgid "Show counters"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:82
+msgid "Like"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:89 admin/metaboxes/social-options.php:144
+#: admin/metaboxes/social-options.php:225
+msgid "Active"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:92 admin/metaboxes/social-options.php:147
+#: admin/metaboxes/social-options.php:228
+msgid "Set On, to activate the button."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:105
+msgid "URL to like"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:108
+msgid ""
+"Optional, set an URL (a facebook page or website page link) which user has "
+"to like in order to unlock the content. Leave this field empty to use an "
+"URL of the page where the locker will be located."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:112
+#: admin/metaboxes/social-options.php:193
+#: admin/metaboxes/social-options.php:248
+msgid "Button Title"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:116
+#: admin/metaboxes/social-options.php:197
+msgid ""
+"Optional, a title of the button that is situated on the covers in some "
+"themes."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:160
+msgid "URL to tweet"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:163
+msgid ""
+"Optional, set an URL which user has to tweet in order to unlock your "
+"content. Leave this field empty to use an URL of the page where the locker "
+"will be located."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:170
+msgid ""
+"Optional, type a message to tweet. Leave this field empty to use default "
+"\"Page title + URL\". Also you can use the shortcode [post_title] in order "
+"to automatically insert a post title."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:186
+msgid "Via"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:189
+msgid "Optional, Twitter user name to attribute the Tweet to (without @)."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:218
+msgid "+1"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:241
+msgid "URL to +1"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:244
+msgid ""
+"Optional, set an URL which user has to +1 in order to unlock your content. "
+"Leave this field empty to use an URL of the page where the locker will be "
+"located."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:252
+msgid "Optional, title of the button that is situated on the covers in some themes."
+msgstr ""
+
+#: admin/metaboxes/social-options.php:273
+#: admin/metaboxes/social-options.php:335
+#: admin/metaboxes/social-options.php:397
+msgid "Share"
+msgstr ""
+
+#: admin/metaboxes/social-options.php:366
+msgid "Youtube"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:16
+msgid "Visibility Options"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:26
+msgid "Hide For Members"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:27
+msgid "Use this option to hide Lockers for logged in users."
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:42
+msgid "Show Always"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:43
+msgid "Even if locker was unlocked before, it will appear again after page reload."
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:63
+msgid "Lock After"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:64
+msgid "If on, the locker will appear after a specified interval of post creation."
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:88
+msgid "The locker will appear after:"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:97
+#: admin/metaboxes/visibility-options.php:151
+msgid "day(s)"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:98
+#: admin/metaboxes/visibility-options.php:152
+msgid "hour(s)"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:99
+#: admin/metaboxes/visibility-options.php:153
+msgid "minute(s)"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:113
+msgid "Relock"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:114
+msgid "If on, unlocked locker will appear again after a specified interval."
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:140
+msgid "The locker will reappear after:"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:141
+msgid "Any changes will apply only for new users."
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:167
+msgid "Mobile"
+msgstr ""
+
+#: admin/metaboxes/visibility-options.php:168
+msgid "If on, the locker will appear on mobile devices."
+msgstr ""
+
+#: admin/settings/batch-options.php:6
+msgid "Batch Locking"
+msgstr ""
+
+#: admin/settings/batch-options.php:14
+msgid "Batch Locking allows to apply the single locker to the posts automatically."
+msgstr ""
+
+#: admin/settings/front-options.php:7
+msgid "Front-end Text"
+msgstr ""
+
+#: admin/settings/front-options.php:15
+msgid ""
+"You can change primary front-end text in the settings of a particular "
+"locker. Here you can change the remaining text. It will be applied to all "
+"your lockers."
+msgstr ""
+
+#: admin/settings/front-options.php:21
+msgid "Sign-In Buttons"
+msgstr ""
+
+#: admin/settings/front-options.php:24
+msgid "The text which will appear in the Sign-In Buttons."
+msgstr ""
+
+#: admin/settings/front-options.php:29
+msgid "Long Text"
+msgstr ""
+
+#: admin/settings/front-options.php:34
+msgid "Displayed on a wide Sign-In Button"
+msgstr ""
+
+#: admin/settings/front-options.php:38
+msgid "Short Text"
+msgstr ""
+
+#: admin/settings/front-options.php:42
+msgid "Displayed on a narrow Sign-In Button"
+msgstr ""
+
+#: admin/settings/front-options.php:70
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/settings/front-options.php:78
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/settings/front-options.php:81
+msgid "Miscellaneous text used usually with all lockers."
+msgstr ""
+
+#: admin/settings/front-options.php:86
+msgid "Processing Data"
+msgstr ""
+
+#: admin/settings/front-options.php:94
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: admin/settings/front-options.php:101
+msgid "You Agree With"
+msgstr ""
+
+#: admin/settings/front-options.php:106
+msgid ""
+"Use the tag {links} to display the links to the Terms Of Use and Privacy "
+"Policy."
+msgstr ""
+
+#: admin/settings/front-options.php:110
+msgid "Terms Of Use"
+msgstr ""
+
+#: admin/settings/front-options.php:118 admin/settings/terms-options.php:84
+#: admin/settings/terms-options.php:143
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/settings/front-options.php:125
+msgid "Close"
+msgstr ""
+
+#: admin/settings/front-options.php:133
+msgid "Or"
+msgstr ""
+
+#: admin/settings/front-options.php:141
+msgid "The Screen \"One Step To Complete\""
+msgstr ""
+
+#: admin/settings/front-options.php:144
+msgid ""
+"Appears when a social network does not return an email address and the "
+"locker asks the users to enter it manually."
+msgstr ""
+
+#: admin/settings/front-options.php:149
+msgid "Header"
+msgstr ""
+
+#: admin/settings/front-options.php:157
+msgid "Instruction"
+msgstr ""
+
+#: admin/settings/front-options.php:165
+msgid "Button"
+msgstr ""
+
+#: admin/settings/front-options.php:173
+msgid "Errors & Notices"
+msgstr ""
+
+#: admin/settings/front-options.php:176
+msgid "The text which users see when something goes wrong."
+msgstr ""
+
+#: admin/settings/front-options.php:181
+msgid "Empty Email"
+msgstr ""
+
+#: admin/settings/front-options.php:189
+msgid "Incorrect Email"
+msgstr ""
+
+#: admin/settings/front-options.php:197
+msgid "Empty Name"
+msgstr ""
+
+#: admin/settings/front-options.php:204
+msgid "Not Signed In"
+msgstr ""
+
+#: admin/settings/front-options.php:212
+msgid "Not Granted Permissions"
+msgstr ""
+
+#: admin/settings/front-options.php:215
+msgid "Use the tag {permissions} to show required permissions."
+msgstr ""
+
+#: admin/settings/lock-options.php:7
+msgid "Lock Options"
+msgstr ""
+
+#: admin/settings/lock-options.php:15
+msgid ""
+"Options linked with the locking feature. Don't change the options here if "
+"you are not sure that you do."
+msgstr ""
+
+#: admin/settings/social-options.php:15
+msgid ""
+"Enable Social Sign-In buttons by adding API keys and app IDs for social "
+"media sites."
+msgstr ""
+
+#: admin/settings/social-options.php:21
+msgid "Button Language"
+msgstr ""
+
+#: admin/settings/social-options.php:24
+msgid ""
+"Select the language that will be used for the social buttons in Social "
+"Lockers."
+msgstr ""
+
+#: admin/settings/social-options.php:26
+msgid "Catalan"
+msgstr ""
+
+#: admin/settings/social-options.php:27
+msgid "Czech"
+msgstr ""
+
+#: admin/settings/social-options.php:28
+msgid "Welsh"
+msgstr ""
+
+#: admin/settings/social-options.php:29
+msgid "Danish"
+msgstr ""
+
+#: admin/settings/social-options.php:30
+msgid "German"
+msgstr ""
+
+#: admin/settings/social-options.php:31
+msgid "Basque"
+msgstr ""
+
+#: admin/settings/social-options.php:32
+msgid "English"
+msgstr ""
+
+#: admin/settings/social-options.php:33
+msgid "Spanish"
+msgstr ""
+
+#: admin/settings/social-options.php:34
+msgid "Finnish"
+msgstr ""
+
+#: admin/settings/social-options.php:35
+msgid "French"
+msgstr ""
+
+#: admin/settings/social-options.php:36
+msgid "Galician"
+msgstr ""
+
+#: admin/settings/social-options.php:37
+msgid "Hungarian"
+msgstr ""
+
+#: admin/settings/social-options.php:38
+msgid "Italian"
+msgstr ""
+
+#: admin/settings/social-options.php:39
+msgid "Japanese"
+msgstr ""
+
+#: admin/settings/social-options.php:40
+msgid "Korean"
+msgstr ""
+
+#: admin/settings/social-options.php:41
+msgid "Norwegian"
+msgstr ""
+
+#: admin/settings/social-options.php:42
+msgid "Dutch"
+msgstr ""
+
+#: admin/settings/social-options.php:43
+msgid "Polish"
+msgstr ""
+
+#: admin/settings/social-options.php:44
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/settings/social-options.php:45
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: admin/settings/social-options.php:46
+msgid "Romanian"
+msgstr ""
+
+#: admin/settings/social-options.php:47
+msgid "Russian"
+msgstr ""
+
+#: admin/settings/social-options.php:48
+msgid "Slovak"
+msgstr ""
+
+#: admin/settings/social-options.php:49
+msgid "Slovenian"
+msgstr ""
+
+#: admin/settings/social-options.php:50
+msgid "Swedish"
+msgstr ""
+
+#: admin/settings/social-options.php:51
+msgid "Thai"
+msgstr ""
+
+#: admin/settings/social-options.php:52
+msgid "Turkish"
+msgstr ""
+
+#: admin/settings/social-options.php:53
+msgid "Kurdish"
+msgstr ""
+
+#: admin/settings/social-options.php:54
+msgid "Simplified Chinese (China)"
+msgstr ""
+
+#: admin/settings/social-options.php:55
+msgid "Traditional Chinese (Hong Kong)"
+msgstr ""
+
+#: admin/settings/social-options.php:56
+msgid "Traditional Chinese (Taiwan)"
+msgstr ""
+
+#: admin/settings/social-options.php:57
+msgid "Afrikaans"
+msgstr ""
+
+#: admin/settings/social-options.php:58
+msgid "Albanian"
+msgstr ""
+
+#: admin/settings/social-options.php:59
+msgid "Armenian"
+msgstr ""
+
+#: admin/settings/social-options.php:60
+msgid "Azeri"
+msgstr ""
+
+#: admin/settings/social-options.php:61
+msgid "Belarusian"
+msgstr ""
+
+#: admin/settings/social-options.php:62
+msgid "Bengali"
+msgstr ""
+
+#: admin/settings/social-options.php:63
+msgid "Bosnian"
+msgstr ""
+
+#: admin/settings/social-options.php:64
+msgid "Bulgarian"
+msgstr ""
+
+#: admin/settings/social-options.php:65
+msgid "Croatian"
+msgstr ""
+
+#: admin/settings/social-options.php:66
+msgid "Dutch (Belgie)"
+msgstr ""
+
+#: admin/settings/social-options.php:67
+msgid "Esperanto"
+msgstr ""
+
+#: admin/settings/social-options.php:68
+msgid "Estonian"
+msgstr ""
+
+#: admin/settings/social-options.php:69
+msgid "Faroese"
+msgstr ""
+
+#: admin/settings/social-options.php:70
+msgid "Georgian"
+msgstr ""
+
+#: admin/settings/social-options.php:71
+msgid "Greek"
+msgstr ""
+
+#: admin/settings/social-options.php:72
+msgid "Gujarati"
+msgstr ""
+
+#: admin/settings/social-options.php:73
+msgid "Hindi"
+msgstr ""
+
+#: admin/settings/social-options.php:74
+msgid "Icelandic"
+msgstr ""
+
+#: admin/settings/social-options.php:75
+msgid "Indonesian"
+msgstr ""
+
+#: admin/settings/social-options.php:76
+msgid "Irish"
+msgstr ""
+
+#: admin/settings/social-options.php:77
+msgid "Javanese"
+msgstr ""
+
+#: admin/settings/social-options.php:78
+msgid "Kannada"
+msgstr ""
+
+#: admin/settings/social-options.php:79
+msgid "Kazakh"
+msgstr ""
+
+#: admin/settings/social-options.php:80
+msgid "Latin"
+msgstr ""
+
+#: admin/settings/social-options.php:81
+msgid "Latvian"
+msgstr ""
+
+#: admin/settings/social-options.php:82
+msgid "Limburgish"
+msgstr ""
+
+#: admin/settings/social-options.php:83
+msgid "Lithuanian"
+msgstr ""
+
+#: admin/settings/social-options.php:84
+msgid "Macedonian"
+msgstr ""
+
+#: admin/settings/social-options.php:85
+msgid "Malagasy"
+msgstr ""
+
+#: admin/settings/social-options.php:86
+msgid "Malay"
+msgstr ""
+
+#: admin/settings/social-options.php:87
+msgid "Maltese"
+msgstr ""
+
+#: admin/settings/social-options.php:88
+msgid "Marathi"
+msgstr ""
+
+#: admin/settings/social-options.php:89
+msgid "Mongolian"
+msgstr ""
+
+#: admin/settings/social-options.php:90
+msgid "Nepali"
+msgstr ""
+
+#: admin/settings/social-options.php:91
+msgid "Punjabi"
+msgstr ""
+
+#: admin/settings/social-options.php:92
+msgid "Romansh"
+msgstr ""
+
+#: admin/settings/social-options.php:93
+msgid "Sanskrit"
+msgstr ""
+
+#: admin/settings/social-options.php:94
+msgid "Serbian"
+msgstr ""
+
+#: admin/settings/social-options.php:95
+msgid "Somali"
+msgstr ""
+
+#: admin/settings/social-options.php:96
+msgid "Swahili"
+msgstr ""
+
+#: admin/settings/social-options.php:97
+msgid "Filipino"
+msgstr ""
+
+#: admin/settings/social-options.php:98
+msgid "Tamil"
+msgstr ""
+
+#: admin/settings/social-options.php:99
+msgid "Tatar"
+msgstr ""
+
+#: admin/settings/social-options.php:100
+msgid "Telugu"
+msgstr ""
+
+#: admin/settings/social-options.php:101
+msgid "Malayalam"
+msgstr ""
+
+#: admin/settings/social-options.php:102
+msgid "Ukrainian"
+msgstr ""
+
+#: admin/settings/social-options.php:103
+msgid "Uzbek"
+msgstr ""
+
+#: admin/settings/social-options.php:104
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/settings/social-options.php:105
+msgid "Xhosa"
+msgstr ""
+
+#: admin/settings/social-options.php:106
+msgid "Zulu"
+msgstr ""
+
+#: admin/settings/social-options.php:107
+msgid "Khmer"
+msgstr ""
+
+#: admin/settings/social-options.php:108
+msgid "Tajik"
+msgstr ""
+
+#: admin/settings/social-options.php:109
+msgid "Arabic"
+msgstr ""
+
+#: admin/settings/social-options.php:110
+msgid "Hebrew"
+msgstr ""
+
+#: admin/settings/social-options.php:111
+msgid "Urdu"
+msgstr ""
+
+#: admin/settings/social-options.php:112
+msgid "Persian"
+msgstr ""
+
+#: admin/settings/social-options.php:113
+msgid "Syriac"
+msgstr ""
+
+#: admin/settings/social-options.php:114
+msgid "Yiddish"
+msgstr ""
+
+#: admin/settings/social-options.php:115
+msgid "Guarani"
+msgstr ""
+
+#: admin/settings/social-options.php:116
+msgid "Quechua"
+msgstr ""
+
+#: admin/settings/social-options.php:117
+msgid "Aymara"
+msgstr ""
+
+#: admin/settings/social-options.php:118
+msgid "Northern Sami"
+msgstr ""
+
+#: admin/settings/social-options.php:119
+msgid "Pashto"
+msgstr ""
+
+#: admin/settings/social-options.php:125
+msgid "Lazy Loading"
+msgstr ""
+
+#: admin/settings/social-options.php:128
+msgid ""
+"If on, creates social buttons only at the moment when the locker gets "
+"visible on the screen (for better performance)."
+msgstr ""
+
+#: admin/settings/social-options.php:138
+msgid "Facebook Sign-In Button"
+msgstr ""
+
+#: admin/settings/social-options.php:141
+msgid ""
+"The Facebook Sign-In button requires a Facebook App ID, you need to <a "
+"href=\"%s\" target=\"_blank\">create an app</a> for your website. Also by "
+"creating your own Facebook App you will be able to change the title, "
+"description and image for the \"Sign In\" popup window."
+msgstr ""
+
+#: admin/settings/social-options.php:146
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/settings/social-options.php:150
+msgid "The Facebook App ID of your Facebook app."
+msgstr ""
+
+#: admin/settings/social-options.php:155
+msgid "Facebook API Version"
+msgstr ""
+
+#: admin/settings/social-options.php:158
+msgid ""
+"Optional, use the most recent version of the API (v2.6) but if Facebook "
+"buttons or widgets don't work on your website try to switch to other "
+"versions."
+msgstr ""
+
+#: admin/settings/social-options.php:160
+msgid "v2.0"
+msgstr ""
+
+#: admin/settings/social-options.php:161
+msgid "v2.3"
+msgstr ""
+
+#: admin/settings/social-options.php:162
+msgid "v2.4"
+msgstr ""
+
+#: admin/settings/social-options.php:163
+msgid "v2.5"
+msgstr ""
+
+#: admin/settings/social-options.php:164
+msgid "v2.6"
+msgstr ""
+
+#: admin/settings/social-options.php:171
+msgid "Twitter Sign-In Button"
+msgstr ""
+
+#: admin/settings/social-options.php:174
+msgid ""
+"The Twitter Sign-In button requires a Twitter App, please <a href=\"%s\" "
+"target=\"_blank\">create an app</a>. Also by creating your own Twitter app "
+"you will be able to change the title, description and image for the \"Sign "
+"In\" popup window."
+msgstr ""
+
+#: admin/settings/social-options.php:179
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: admin/settings/social-options.php:183
+msgid "The Twitter Consumer Key of your Twitter App."
+msgstr ""
+
+#: admin/settings/social-options.php:187
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: admin/settings/social-options.php:190
+msgid "The Twitter Consumer Secret of your Twitter App."
+msgstr ""
+
+#: admin/settings/social-options.php:195
+msgid "Google Sign-In Button"
+msgstr ""
+
+#: admin/settings/social-options.php:198
+msgid ""
+"The Google Sign-In button requires a Google Client ID, you need to <a "
+"href=\"%s\" target=\"_blank\">create a Client ID</a> for your website."
+msgstr ""
+
+#: admin/settings/social-options.php:203
+msgid "Google Client ID"
+msgstr ""
+
+#: admin/settings/social-options.php:206
+msgid "The Google Client ID of your Goole App."
+msgstr ""
+
+#: admin/settings/social-options.php:211
+msgid "LinkedIn Sign-In Button"
+msgstr ""
+
+#: admin/settings/social-options.php:214
+msgid ""
+"The LinkedIn Sign-In button requires a LinkedIn App, you need to <a "
+"href=\"%s\" target=\"_blank\">create an app</a> for your website."
+msgstr ""
+
+#: admin/settings/social-options.php:219
+msgid "LinkedIn Client ID"
+msgstr ""
+
+#: admin/settings/social-options.php:223
+msgid "The Linkedin Client ID of your LinkedIn App."
+msgstr ""
+
+#: admin/settings/social-options.php:227
+msgid "LinkedIn Client Secret"
+msgstr ""
+
+#: admin/settings/social-options.php:230
+msgid "The LinkedIn Client Secret of your LinkedIn App."
+msgstr ""
+
+#: admin/settings/stats-options.php:7
+msgid "Stats Options"
+msgstr ""
+
+#: admin/settings/stats-options.php:15
+msgid "Configure here how the plugin should collect the statistical data."
+msgstr ""
+
+#: admin/settings/stats-options.php:21
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/settings/stats-options.php:24
+msgid ""
+"If set On, the plugin will generate events for the Google Analytics when "
+"the content is unlocked.<br /><strong>Note</strong>: before enabling this "
+"feature, please make sure that your website contains the Google Analytics "
+"tracker code."
+msgstr ""
+
+#: admin/settings/stats-options.php:35
+msgid ""
+"Deatailed Stats Reports is available in the <a target=\"_blank\" "
+"href=\"%s\">pro version</a>."
+msgstr ""
+
+#: admin/settings/stats-options.php:38
+msgid "Collecting Stats"
+msgstr ""
+
+#: admin/settings/stats-options.php:41
+msgid "Turns on collecting the statistical data for reports."
+msgstr ""
+
+#: admin/settings/subscription-options.php:6
+msgid "Subscription Options"
+msgstr ""
+
+#: admin/settings/subscription-options.php:14
+msgid "Set up here how you would like to save emails of your subscribers."
+msgstr ""
+
+#: admin/settings/subscription-options.php:24
+msgid "Select a default list to be used when none is selected."
+msgstr ""
+
+#: admin/settings/subscription-options.php:34
+msgid "List {#}"
+msgstr ""
+
+#: admin/settings/subscription-options.php:35
+msgid "Add List"
+msgstr ""
+
+#: admin/settings/subscription-options.php:36
+msgid "Add Newsletter Service"
+msgstr ""
+
+#: admin/settings/subscription-options.php:37
+msgid "Remove List"
+msgstr ""
+
+#: admin/settings/subscription-options.php:52
+msgid "List Name"
+msgstr ""
+
+#: admin/settings/subscription-options.php:53
+msgid "For internal use only."
+msgstr ""
+
+#: admin/settings/subscription-options.php:57
+msgid "Select service"
+msgstr ""
+
+#: admin/settings/subscription-options.php:59
+msgid "Mailing Service"
+msgstr ""
+
+#: admin/settings/subscription-options.php:63
+msgid "Add subscribers to your list."
+msgstr ""
+
+#: admin/settings/subscription-options.php:105
+#: admin/settings/subscription-options.php:152
+msgid "API Key"
+msgstr ""
+
+#: admin/settings/subscription-options.php:106
+#: admin/settings/subscription-options.php:153
+msgid "The API key of your MailChimp account."
+msgstr ""
+
+#: admin/settings/subscription-options.php:114
+#: admin/settings/subscription-options.php:160
+msgid "Select List"
+msgstr ""
+
+#: admin/settings/subscription-options.php:116
+#: admin/settings/subscription-options.php:162
+msgid "List"
+msgstr ""
+
+#: admin/settings/terms-options.php:7
+msgid "Terms &amp; Policies"
+msgstr ""
+
+#: admin/settings/terms-options.php:15
+msgid "Configure here Terms of Use and Privacy Policy for lockers on your website."
+msgstr ""
+
+#: admin/settings/terms-options.php:21
+msgid "Enable Policies"
+msgstr ""
+
+#: admin/settings/terms-options.php:25
+msgid ""
+"Set On to show the links to Terms of Use and Privacy Policy of your website "
+"below the Sign-In/Email lockers."
+msgstr ""
+
+#: admin/settings/terms-options.php:34
+msgid "Use Existing Pages"
+msgstr ""
+
+#: admin/settings/terms-options.php:37
+msgid ""
+"Set On, if your website already contains pages for \"Terms of Use\" and "
+"\"Privacy Policies\" and you want to use them."
+msgstr ""
+
+#: admin/settings/terms-options.php:57 admin/settings/terms-options.php:134
+msgid "Terms of Use"
+msgstr ""
+
+#: admin/settings/terms-options.php:61
+msgid ""
+"The text of Terms of Use. The link to this text will be shown below the "
+"lockers."
+msgstr ""
+
+#: admin/settings/terms-options.php:87
+msgid ""
+"The text of Privacy Policy. The link to this text will be shown below the "
+"lockers."
+msgstr ""
+
+#: admin/settings/terms-options.php:139
+msgid ""
+"Select a page which contains the \"Terms of Use\" for the lockers or/and "
+"your website."
+msgstr ""
+
+#: admin/settings/terms-options.php:147
+msgid ""
+"Select a page which contains the \"Privacy Policy\" for the lockers or/and "
+"your website."
+msgstr ""
+
+#: admin/views/hint-action-email.php:3
+msgid "How to use:"
+msgstr ""
+
+#: admin/views/hint-action-email.php:5
+msgid ""
+"Using above option automatically subscribe all the signed-up users to your "
+"mailing list. Free version only supports MailChimp & MailerLite."
+msgstr ""
+
+#: admin/views/hint-action-email.php:8
+msgid ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\">See emails</a> of users "
+"who already signed-up or <a href=\"%s\" class=\"button\" "
+"target=\"_blank\">export emails</a> in the CSV format."
+msgstr ""
+
+#: admin/views/hint-action-signup.php:8
+msgid ""
+"<strong>Login Mode (<underline>Manual</underline>): </strong> The account "
+"will be created but the user will not be logged in. The user will have to "
+"log in manually by using the login details sent via email. The locked "
+"content will be available instantly after clicking on the Sign-In buttons."
+msgstr ""
+
+#: admin/views/hint-action-signup.php:11
+msgid ""
+"<strong>New User Role:</strong> All new users will be assigned to the role "
+"%s (<a href=\"%s\" target=\"_blank\">change</a>)."
+msgstr ""
+
+#: admin/views/hint-action-signup.php:14
+msgid ""
+"<strong>Welcome E-mail:</strong> By default new users receive the standard "
+"wordpress welcome message. You can change it if you want. To customize the "
+"welcome mail you can use this free plugin <a "
+"href=\"https://wordpress.org/plugins/search.php?q=Welcome+Email\" "
+"target=\"_blank\">Click here</a>."
+msgstr ""
+
+#: admin/views/hint-more-tag.php:1
+msgid "What is the More Tag?"
+msgstr ""
+
+#: admin/views/hint-more-tag.php:4
+msgid ""
+"Check out <a href=\"#\" target=\"_blank\">Splitting Content &gt; More "
+"Tag</a> to lean more."
+msgstr ""
+
+#: admin/views/hint-setting-stats.php:18
+msgid "The statistical data is empty."
+msgstr ""
+
+#: admin/views/hint-setting-stats.php:20
+msgid "The statistical data takes <strong>%s</strong> on your server"
+msgstr ""
+
+#: admin/views/hint-setting-stats.php:23
+msgid "clear data"
+msgstr ""
+
+#: admin/views/hint-signing-connect.php:2
+msgid "How to setup:"
+msgstr ""
+
+#: admin/views/hint-signing-connect.php:4
+msgid ""
+"Select social networks and subscription form which will be available to "
+"sign in"
+msgstr ""
+
+#: admin/views/hint-signing-connect.php:5
+msgid ""
+"For each social network, select actions which have to be performed to sign "
+"in"
+msgstr ""
+
+#: admin/views/hint-signing-connect.php:6
+msgid "Configure selected services"
+msgstr ""
+
+#: admin/views/page-export.php:3
+msgid "Exporting Leads"
+msgstr ""
+
+#: admin/views/page-export.php:5
+msgid "Select leads you would like to export and click the button \"Export Leads\"."
+msgstr ""
+
+#: admin/views/page-new.php:3
+msgid "Create New Locker"
+msgstr ""
+
+#: admin/views/page-new.php:9
+msgid "Asks users to \"unlock content with a like or share\"."
+msgstr ""
+
+#: admin/views/page-new.php:10
+msgid ""
+"Perfect way to get more likes and shares, attract social traffic and "
+"improve some social metrics."
+msgstr ""
+
+#: admin/views/page-new.php:15 admin/views/page-new.php:31
+msgid "Create Locker"
+msgstr ""
+
+#: admin/views/page-new.php:25
+msgid ""
+"Asks users to \"sign-in through social networks or subscription\" form to "
+"unlock the content."
+msgstr ""
+
+#: admin/views/page-new.php:26
+msgid "Use these lockers to collect subscribers."
+msgstr ""
+
+#: content-locker.php:65 content-locker.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/cl-helpers.php:163
+msgid "hide extra options"
+msgstr ""
+
+#: includes/cl-helpers.php:233 includes/cl-helpers.php:241
+msgid "(no titled, ID=%s)"
+msgstr ""
+
+#: includes/cl-helpers.php:452
+msgid ""
+"To enable this service, you need to register a Facebook App for your "
+"website. Please <a href=\"%s\" target=\"_blank\">click here</a> to know "
+"more."
+msgstr ""
+
+#: includes/cl-helpers.php:470
+msgid ""
+"To enable this service, please set the Key & Secret of your Twitter App for "
+"your website. Please <a href=\"%s\" target=\"_blank\">click here</a> to "
+"know more."
+msgstr ""
+
+#: includes/cl-helpers.php:487
+msgid ""
+"To enable this service, you need to get a Google Client ID for your "
+"website. Please <a href=\"%s\" target=\"_blank\">click here</a> to know "
+"more."
+msgstr ""
+
+#: includes/cl-helpers.php:505
+msgid ""
+"To enable this service, you need to get LinkedIn Client ID and Secret for "
+"your website. Please <a href=\"%s\" target=\"_blank\">click here</a> to "
+"learn more."
+msgstr ""
+
+#: includes/cl-helpers.php:561 includes/lib/CMB2/includes/CMB2_JS.php:97
+msgid "Default"
+msgstr ""
+
+#: includes/cl-helpers.php:570 includes/cl-helpers.php:575
+msgid "No Title"
+msgstr ""
+
+#: includes/class-cl-post-types.php:41
+msgid "Lockers"
+msgstr ""
+
+#: includes/class-cl-post-types.php:43
+msgid "All Lockers"
+msgstr ""
+
+#: includes/class-cl-post-types.php:46 includes/class-cl-post-types.php:89
+msgid "Add New Locker"
+msgstr ""
+
+#: includes/class-cl-post-types.php:47 includes/class-cl-post-types.php:90
+msgid "Edit"
+msgstr ""
+
+#: includes/class-cl-post-types.php:48 includes/class-cl-post-types.php:91
+msgid "Edit Item"
+msgstr ""
+
+#: includes/class-cl-post-types.php:49 includes/class-cl-post-types.php:92
+msgid "New Item"
+msgstr ""
+
+#: includes/class-cl-post-types.php:50 includes/class-cl-post-types.php:93
+msgid "View"
+msgstr ""
+
+#: includes/class-cl-post-types.php:51 includes/class-cl-post-types.php:94
+msgid "View Item"
+msgstr ""
+
+#: includes/class-cl-post-types.php:52 includes/class-cl-post-types.php:95
+msgid "Search Items"
+msgstr ""
+
+#: includes/class-cl-post-types.php:53 includes/class-cl-post-types.php:96
+msgid "No Items found"
+msgstr ""
+
+#: includes/class-cl-post-types.php:54 includes/class-cl-post-types.php:97
+msgid "No Items found in trash"
+msgstr ""
+
+#: includes/class-cl-post-types.php:55 includes/class-cl-post-types.php:98
+msgid "Parent Item"
+msgstr ""
+
+#: includes/class-cl-post-types.php:62 includes/class-cl-post-types.php:105
+msgid "This is where you can add new lockers."
+msgstr ""
+
+#: includes/class-cl-post-types.php:84
+msgid "Leads"
+msgstr ""
+
+#: includes/class-cl-post-types.php:85 includes/class-cl-post-types.php:104
+msgid "Lead"
+msgstr ""
+
+#: includes/class-cl-post-types.php:86
+msgid "All Leads"
+msgstr ""
+
+#: includes/class-cl-post-types.php:88
+msgid "+ New Lead"
+msgstr ""
+
+#: includes/class-cl-post-types.php:136
+msgid "Confirmed (%s)"
+msgid_plural "Confirmed (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cl-post-types.php:145
+msgid "Not Confirmed (%s)"
+msgid_plural "Not Confirmed (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cl-settings.php:53
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-cl-settings.php:107
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-cl-social-locker.php:27
+msgid "like us"
+msgstr ""
+
+#: includes/class-cl-social-locker.php:32
+#: includes/class-cl-social-locker.php:59
+#: includes/class-cl-social-locker.php:68
+msgid "share"
+msgstr ""
+
+#: includes/class-cl-social-locker.php:43
+msgid "tweet"
+msgstr ""
+
+#: includes/class-cl-social-locker.php:49
+msgid "follow us"
+msgstr ""
+
+#: includes/class-cl-social-locker.php:54
+msgid "+1 us"
+msgstr ""
+
+#: includes/class-cl-social-locker.php:63
+msgid "subscribe"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2.php:117
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2.php:432
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Ajax.php:181
+#: includes/lib/CMB2/includes/helper-functions.php:95
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Base.php:338
+msgid ""
+"The \"%s\" field parameter has been deprecated in favor of the \"%s\" "
+"parameter."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Base.php:342
+msgid ""
+"Using the \"%s\" field parameter as a callback has been deprecated in favor "
+"of the \"%s\" parameter."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Base.php:372
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Base.php:375
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Base.php:408
+#: includes/lib/CMB2/includes/types/CMB2_Type_Base.php:138
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Base.php:422
+#: includes/lib/CMB2/includes/types/CMB2_Type_Base.php:123
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Field.php:1116
+msgid "Add Group"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Field.php:1117
+msgid "Remove Group"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Field.php:1139
+#: includes/lib/CMB2/includes/CMB2_Field.php:1143
+msgid "None"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Field.php:1204
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Field_Display.php:408
+#: includes/lib/CMB2/includes/CMB2_JS.php:155
+#: includes/lib/CMB2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:96
+#: includes/lib/CMB2/includes/CMB2_JS.php:135
+msgid "Clear"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:98
+msgid "Select Color"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:99
+msgid "Current Color"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:126
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:127
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:128
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:129
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:130
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:131
+msgid "Next"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:132
+msgid "Prev"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:133
+msgid "Today"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:134
+#: includes/lib/CMB2/includes/CMB2_JS.php:144
+msgid "Done"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:138
+msgid "Choose Time"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:139
+msgid "Time"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:140
+msgid "Hour"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:141
+msgid "Minute"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:142
+msgid "Second"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:143
+msgid "Now"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:151
+msgid "Use this file"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:152
+msgid "Use these files"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:153
+#: includes/lib/CMB2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:154
+#: includes/lib/CMB2/includes/CMB2_Types.php:294
+#: includes/lib/CMB2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:156
+#: includes/lib/CMB2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:157
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_Types.php:231
+msgid "Add Row"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_hookup.php:128
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_hookup.php:132
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: includes/lib/CMB2/includes/helper-functions.php:284
+msgid "Save"
+msgstr ""
+
+#: includes/lib/CMB2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/lib/CMB2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: includes/lib/CMB2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: includes/lib/CMB2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: includes/subscription/class-cl-mailerlite.php:49
+msgid "Unknown error."
+msgstr ""
+
+#: templates/email-form.php:2
+msgid "Cannot sign in via social networks? Enter your email manually."
+msgstr ""
+
+#: templates/email-form.php:11
+msgid "Please enter your email address."
+msgstr ""
+
+#: templates/email-form.php:16
+msgid "sign in to unlock"
+msgstr ""
+
+#: templates/email-form.php:17
+msgid "Your email address is 100% safe from spam!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Content Locker"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://mythemeshop.com/plugins/content-locker/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Content Locker is the fastest way to grow your social media following and "
+"mailing list. Swap content for likes, shares and opt-ins and see how "
+"quickly your influence can grow!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MyThemesShop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mythemeshop.com/"
+msgstr ""
+
+#: includes/class-cl-post-types.php:44
+msgctxt "Admin menu name"
+msgid "Content Locker"
+msgstr ""
+
+#: includes/class-cl-post-types.php:87
+msgctxt "Admin menu name"
+msgid "Content Lead"
+msgstr ""
+
+#: includes/class-cl-post-types.php:135
+msgctxt "Status General Name"
+msgid "Confirmed"
+msgstr ""
+
+#: includes/class-cl-post-types.php:144
+msgctxt "Status General Name"
+msgid "Not Confirmed"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:125
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/lib/CMB2/includes/CMB2_JS.php:145
+msgctxt ""
+"Valid formatting string, as per "
+"http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
